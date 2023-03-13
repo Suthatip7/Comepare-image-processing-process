@@ -1,10 +1,17 @@
 # Comepare-image-processing-process
 
-part1: Compare different edge detection methods.
+part1: Compare the methods for converting an RGB image to a binary image.
+- Simple Threshold
+- Threshold HSV image
+- Adaptive Threshold
+- Canny edge Detection
 
 https://medium.com/@suthatip8/เปรียบเทียบเทคนิคต่างๆที่ใช้เพื่อที่จะให้aiสามารถจับภาพกระดาษให้ตั้งตรงได้-part-1-e2d3e2b747ea 
 
 part2: Compare methods for detecting fine key points.
+- Find Contours
+- Harris Corner Detection
+- Hough line Transform
 
 https://medium.com/@suthatip8/เปรียบเทียบเทคนิค-image-processing-ต่างๆที่ใช้เพื่อที่จะสามารถจับภาพกระดาษให้ตั้งตรงได้-part-2-4086c71e3955
 
